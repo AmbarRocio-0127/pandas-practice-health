@@ -1,0 +1,122 @@
+[
+  {
+    "id_paciente": "PAC01",
+    "nombre": "Ana Torres",
+    "ciudad": "Houston",
+    "paciente_cronico": false
+  },
+  {
+    "id_paciente": "PAC02",
+    "nombre": "Luis Gómez",
+    "ciudad": "Houston",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC03",
+    "nombre": "Marta Ruiz",
+    "ciudad": "Los Angeles",
+    "paciente_cronico": false
+  },
+  {
+    "id_paciente": "PAC04",
+    "nombre": "Carlos Peña",
+    "ciudad": "Miami",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC05",
+    "nombre": "Sofía Díaz",
+    "ciudad": "New York",
+    "paciente_cronico": false
+  },
+  {
+    "id_paciente": "PAC06",
+    "nombre": "Jorge León",
+    "ciudad": "Chicago",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC07",
+    "nombre": "Elena Ríos",
+    "ciudad": "New York",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC08",
+    "nombre": "Pedro Salas",
+    "ciudad": "Miami",
+    "paciente_cronico": false
+  },
+  {
+    "id_paciente": "PAC09",
+    "nombre": "Laura Nieto",
+    "ciudad": "Houston",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC10",
+    "nombre": "Diego Vargas",
+    "ciudad": "Miami",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC11",
+    "nombre": "Paula Cruz",
+    "ciudad": "Miami",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC12",
+    "nombre": "Andrés Rojas",
+    "ciudad": "New York",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC13",
+    "nombre": "Camila Duarte",
+    "ciudad": null,
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC14",
+    "nombre": "Felipe Soto",
+    "ciudad": "Miami",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC15",
+    "nombre": "Isabel Marín",
+    "ciudad": "Houston",
+    "paciente_cronico": false
+  },
+  {
+    "id_paciente": "PAC16",
+    "nombre": "Tomás Reyes",
+    "ciudad": "Houston",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC17",
+    "nombre": "Valeria Ortiz",
+    "ciudad": "Miami",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC18",
+    "nombre": "Mateo Cano",
+    "ciudad": "Chicago",
+    "paciente_cronico": false
+  },
+  {
+    "id_paciente": "PAC19",
+    "nombre": "Daniela Paz",
+    "ciudad": "New York",
+    "paciente_cronico": true
+  },
+  {
+    "id_paciente": "PAC20",
+    "nombre": "Sebastián Luna",
+    "ciudad": "Houston",
+    "paciente_cronico": false
+  }
+]

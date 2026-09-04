@@ -1,0 +1,10 @@
+id_tratamiento,tratamiento,especialidad,costo
+TR01,Consulta General,Medicina General,80000.0
+TR02,Fisioterapia,Rehabilitación,95000.0
+TR03,Control Nutricional,Nutrición,70000.0
+TR04,Terapia Psicológica,Salud Mental,110000.0
+TR05,Odontología Preventiva,Odontología,65000.0
+TR06,Control Cardiológico,Cardiología,
+TR07,Vacunación,Medicina General,45000.0
+TR08,Laboratorio Clínico,Diagnóstico,90000.0
+TR02,Fisioterapia,Rehabilitación,95000.0
